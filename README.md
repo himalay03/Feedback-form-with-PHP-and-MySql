@@ -22,9 +22,6 @@ Feedback form with PHP and MySQL is a simple web application that allows users t
 3. Processing the form with PHP:
    Create a PHP script that processes the data from the HTML form. The script should validate the user's input to ensure that all required fields are filled in. Once      the data is validated, the script should insert the data into the MySQL database.
 
-4. Displaying feedback on a webpage:
-   Create a PHP script that retrieves the feedback data from the MySQL database and displays it on a webpage.
-
 Overall, this project requires knowledge of HTML, PHP, and MySQL.
 
 
